@@ -5,7 +5,7 @@ _A portable tool to help you Hack, see, store, search, filter and retrieve all t
 
 Today we have passed [![Download Mi Wifi Passwords](https://img.shields.io/sourceforge/dt/miwifipasswords.svg)](https://sourceforge.net/projects/miwifipasswords/files/latest/download) already! 
 
-Would you like to save time on remembering passwords? well, why not 🤓 !
+Would you like to save time on remembering any password? well, why not 🤓 !
 
 
 [![Download Mi Wifi Passwords](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/miwifipasswords/files/latest/download)
