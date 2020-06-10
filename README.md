@@ -9,3 +9,6 @@ Would you like to save time on remembering any password? well, why not 🤓 !
 
 
 [![Download Mi Wifi Passwords](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/miwifipasswords/files/latest/download)
+
+
+Encase you're facing some problems, feel free to raise an issue above. I will be glad to help.
