@@ -1,7 +1,7 @@
 # MiWifiPasswords (My Wifi Passwords)
 _A portable tool to help you Hack, see, store, search, filter and retrieve all the passwords for Wifi-Networks stored on any computer you run *MiWiFiPassswords on*._
 
-## With Mi-WiFi-Passwords, its now easier to discover, copy,store, and retrieve all WiFi passwords stored on any computer your run the software on ta glimps of an eye😉😉😲
+## With Mi-WiFi-Passwords, its now easier to discover, copy,store, and retrieve all WiFi passwords stored on any computer your run the software on.😉😉😲
 
 Today we have passed [![Download Mi Wifi Passwords](https://img.shields.io/sourceforge/dt/miwifipasswords.svg)](https://sourceforge.net/projects/miwifipasswords/files/latest/download) already! 
 
